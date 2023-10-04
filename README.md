@@ -25,7 +25,7 @@ Before running the script, ensure you have the following:
 3. Run the script using the following command:
 
    ```bash
-   python brute_force.py
+   python forcerofthebrute.py
 
 Follow the on-screen prompts to specify the minimum and maximum length of combinations you want to generate.
 
